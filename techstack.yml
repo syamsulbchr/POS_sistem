@@ -1,0 +1,1841 @@
+repo_name: syamsulbchr/POS_sistem
+report_id: d4d9cfcf3de67ee810bb018543e2ba55
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-01T08:39:30+00:00'
+requested_by: syamsulbchr
+provider: github
+branch: master
+detected_tools_count: 150
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem
+  detection_source: Repo Metadata
+- name: D
+  description: Modern convenience. Modeling power. Native efficiency.
+  website_url: http://dlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3117/d-5.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/files/db_updates/3.0.1.13.sql
+  detection_source: files/db_updates/3.0.1.13.sql
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-ctype/composer.json
+  detection_source: vendor/symfony/polyfill-ctype/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-ctype/composer.json
+  detection_source: vendor/symfony/polyfill-ctype/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Guzzle
+  description: PHP HTTP client that makes it easy to send HTTP requests and trivial
+    to integrate with web services
+  website_url: http://guzzlephp.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/2350/638632.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/facebook/graph-sdk/composer.json
+  detection_source: vendor/facebook/graph-sdk/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Symfony
+  description: A PHP full-stack web framework
+  website_url: http://symfony.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1197/logosf_positif_03_icon.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: CouchDB
+  description: HTTP + JSON document database with Map Reduce views and peer-based
+    replication
+  website_url: http://couchdb.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1042/default_86434292d1c55e5f3a3256ca2bc6e2ea62eaca83.jpg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/app/config/ion_auth.php
+  detection_source: app/config/ion_auth.php
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Codacy
+  description: Automate and Standardize Code Reviews for 40+ languages
+  website_url: https://www.codacy.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/866/default_3252d282a3e0bdac472b0eb745cd8d415480559c.jpg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/sabberworm/php-css-parser/composer.json
+  detection_source: vendor/sabberworm/php-css-parser/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Composer
+  description: Dependency Manager for PHP
+  website_url: https://getcomposer.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/1688/New_Project__65_.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/Dockerfile
+  detection_source: vendor/guzzlehttp/guzzle/Dockerfile
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/Dockerfile
+  detection_source: vendor/guzzlehttp/guzzle/Dockerfile
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem
+  detection_source: Repo Metadata
+- name: GitHub
+  description: Powerful collaboration, review, and code management for open source
+    and private development projects
+  website_url: https://github.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Collaboration & Version Control
+  image_url: https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Graylog
+  description: Open source log management that actually works
+  website_url: https://www.graylog.org/
+  open_source: true
+  hosted_saas: true
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/4392/_HU28D42.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-ctype/composer.json
+  detection_source: vendor/symfony/polyfill-ctype/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: PHPUnit
+  description: Testing framework for PHP
+  website_url: https://phpunit.de/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/1616/1_WsEnddd5Y4EgEHsT054kUQ.jpeg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/bacon/bacon-qr-code/composer.json
+  detection_source: vendor/bacon/bacon-qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phing
+  description: A PHP project build system or build tool based on ​Apache Ant
+  website_url: https://www.phing.info/
+  license: LGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/3215/d.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Context.IO
+  description: A REST email API that makes it easy and fast to integrate your user's
+    email data in your application.
+  website_url: http://context.io
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Email API
+  image_url: https://img.stackshare.io/service/240/mPMj_ee5.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpoffice/phpspreadsheet/composer.json
+  detection_source: vendor/phpoffice/phpspreadsheet/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: Monolog
+  website_url: https://github.com/Seldaek/monolog
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9170/183678.jpeg
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: OpenLayers
+  description: A high-performance, feature-packed library for all your mapping needs
+  website_url: http://openlayers.org/
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: SwiftMailer
+  description: Allows you to keep up with Symfony news in a twitter-like way.
+  website_url: http://swiftmailer.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/1815/logosf_positif_03_icon_normal.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: aws/aws-sdk-php
+  description: AWS SDK for PHP - Use Amazon Web Services in your PHP project
+  package_url: https://packagist.org/aws/aws-sdk-php
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: bacon/bacon-qr-code
+  description: BaconQrCode is a QR code generator for PHP
+  package_url: https://packagist.org/bacon/bacon-qr-code
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/bacon/bacon-qr-code/composer.json
+  detection_source: vendor/bacon/bacon-qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: codacy/coverage
+  description: Sends PHP test coverage information to Codacy
+  package_url: https://packagist.org/codacy/coverage
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/sabberworm/php-css-parser/composer.json
+  detection_source: vendor/sabberworm/php-css-parser/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: container-interop/container-interop
+  description: Promoting the interoperability of container objects
+  package_url: https://packagist.org/container-interop/container-interop
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/container-interop/container-interop/composer.json
+  detection_source: vendor/container-interop/container-interop/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: dasprid/enum
+  description: PHP 7.1 enum implementation
+  package_url: https://packagist.org/dasprid/enum
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/bacon/bacon-qr-code/composer.json
+  detection_source: vendor/bacon/bacon-qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: dealerdirect/phpcodesniffer-composer-installer
+  description: PHP_CodeSniffer Standards Composer Installer Plugin
+  package_url: https://packagist.org/dealerdirect/phpcodesniffer-composer-installer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: doctrine/annotations
+  description: Docblock Annotations Parser
+  package_url: https://packagist.org/doctrine/annotations
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpmailer/phpmailer/composer.json
+  detection_source: vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: doctrine/collections
+  description: PHP Doctrine Collections library that adds additional functionality
+    on top of PHP arrays
+  package_url: https://packagist.org/doctrine/collections
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/myclabs/deep-copy/composer.json
+  detection_source: vendor/myclabs/deep-copy/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: doctrine/common
+  description: PHP Doctrine Common project is a library that provides additional functionality
+    that other Doctrine projects depend on such as better reflection support
+  package_url: https://packagist.org/doctrine/common
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/myclabs/deep-copy/composer.json
+  detection_source: vendor/myclabs/deep-copy/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: doctrine/couchdb
+  description: CouchDB Client
+  package_url: https://packagist.org/doctrine/couchdb
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: dompdf/dompdf
+  description: DOMPDF is a CSS 2.1 compliant HTML to PDF converter
+  package_url: https://packagist.org/dompdf/dompdf
+  version: 0.8.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: eloquent/liberator
+  description: A proxy for circumventing PHP access modifier restrictions
+  package_url: https://packagist.org/eloquent/liberator
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/league/oauth2-client/composer.json
+  detection_source: vendor/league/oauth2-client/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: eloquent/phony
+  description: Mocks, stubs, and spies for PHP
+  package_url: https://packagist.org/eloquent/phony
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/league/oauth2-client/composer.json
+  detection_source: vendor/league/oauth2-client/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: endroid/qr-code
+  description: Endroid QR Code
+  package_url: https://packagist.org/endroid/qr-code
+  version: '3.7'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: facebook/graph-sdk
+  description: Facebook SDK for PHP
+  package_url: https://packagist.org/facebook/graph-sdk
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/facebook/graph-sdk/composer.json
+  detection_source: vendor/facebook/graph-sdk/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: friendsofphp/php-cs-fixer
+  description: A tool to automatically fix PHP code style
+  package_url: https://packagist.org/friendsofphp/php-cs-fixer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpmailer/phpmailer/composer.json
+  detection_source: vendor/phpmailer/phpmailer/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: giggsey/libphonenumber-for-php
+  description: PHP Port of Google's libphonenumber
+  package_url: https://packagist.org/giggsey/libphonenumber-for-php
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: giggsey/locale
+  description: Locale functions required by libphonenumber-for-php
+  package_url: https://packagist.org/giggsey/locale
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: graylog2/gelf-php
+  description: A php implementation to send log-messages to a GELF compatible backend
+    like Graylog2
+  package_url: https://packagist.org/graylog2/gelf-php
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: guzzlehttp/guzzle
+  description: Guzzle is a PHP HTTP client library
+  package_url: https://packagist.org/guzzlehttp/guzzle
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/facebook/graph-sdk/composer.json
+  detection_source: vendor/facebook/graph-sdk/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: guzzlehttp/promises
+  description: Guzzle promises library
+  package_url: https://packagist.org/guzzlehttp/promises
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/composer.json
+  detection_source: vendor/guzzlehttp/guzzle/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: guzzlehttp/psr7
+  description: PSR-7 message implementation that also provides common utility methods
+  package_url: https://packagist.org/guzzlehttp/psr7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/composer.json
+  detection_source: vendor/guzzlehttp/guzzle/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: hybridauth/hybridauth
+  description: PHP Social Authentication Library
+  package_url: https://packagist.org/hybridauth/hybridauth
+  version: '2.9'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: jakub-onderka/php-parallel-lint
+  description: This tool check syntax of PHP files about 20x faster than serial check
+  package_url: https://packagist.org/jakub-onderka/php-parallel-lint
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/league/oauth2-client/composer.json
+  detection_source: vendor/league/oauth2-client/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: jpgraph/jpgraph
+  description: JpGraph, library to make graphs and charts
+  package_url: https://packagist.org/jpgraph/jpgraph
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpoffice/phpspreadsheet/composer.json
+  detection_source: vendor/phpoffice/phpspreadsheet/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: khanamiryan/qrcode-detector-decoder
+  description: QR code decoder / reader
+  package_url: https://packagist.org/khanamiryan/qrcode-detector-decoder
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: laminas/laminas-zendframework-bridge
+  description: Alias legacy ZF class names to Laminas Project equivalents
+  package_url: https://packagist.org/laminas/laminas-zendframework-bridge
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-barcode/composer.json
+  detection_source: vendor/laminas/laminas-barcode/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: league/oauth2-client
+  description: OAuth 2.0 Client Library
+  package_url: https://packagist.org/league/oauth2-client
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/league/oauth2-client/composer.json
+  detection_source: vendor/league/oauth2-client/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: league/oauth2-google
+  description: Google OAuth 2.0 Client Provider for The PHP League OAuth2-Client
+  package_url: https://packagist.org/league/oauth2-google
+  version: '3.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: maennchen/zipstream-php
+  description: ZipStream is a library for dynamically streaming dynamic zip files
+    from PHP without writing to the disk at all on the server
+  package_url: https://packagist.org/maennchen/zipstream-php
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/maennchen/zipstream-php/composer.json
+  detection_source: vendor/maennchen/zipstream-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: markbaker/complex
+  description: PHP Class for working with complex numbers
+  package_url: https://packagist.org/markbaker/complex
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: markbaker/matrix
+  description: PHP Class for working with matrices
+  package_url: https://packagist.org/markbaker/matrix
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/matrix/composer.json
+  detection_source: vendor/markbaker/matrix/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: mike42/escpos-php
+  description: PHP receipt printer library for use with ESC/POS-compatible thermal
+    and impact printers
+  package_url: https://packagist.org/mike42/escpos-php
+  version: '1.5'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: mikey179/vfsStream
+  description: Virtual file system to mock the real file system in unit tests
+  package_url: https://packagist.org/mikey179/vfsStream
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-servicemanager/composer.json
+  detection_source: vendor/laminas/laminas-servicemanager/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: mockery/mockery
+  description: Mockery is a simple yet flexible PHP mock object framework
+  package_url: https://packagist.org/mockery/mockery
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/dompdf/dompdf/composer.json
+  detection_source: vendor/dompdf/dompdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: mongodb/mongodb
+  description: MongoDB driver library
+  package_url: https://packagist.org/mongodb/mongodb
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: monolog/monolog
+  description: Sends your logs to files
+  package_url: https://packagist.org/monolog/monolog
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: mpdf/mpdf
+  description: PHP library generating PDF files from UTF-8 encoded HTML
+  package_url: https://packagist.org/mpdf/mpdf
+  version: 8.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: myclabs/deep-copy
+  description: Create deep copies
+  package_url: https://packagist.org/myclabs/deep-copy
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/mpdf/mpdf/composer.json
+  detection_source: vendor/mpdf/mpdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: myclabs/php-enum
+  description: PHP Enum implementation
+  package_url: https://packagist.org/myclabs/php-enum
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: ocramius/proxy-manager
+  description: A library providing utilities to generate
+  package_url: https://packagist.org/ocramius/proxy-manager
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-servicemanager/composer.json
+  detection_source: vendor/laminas/laminas-servicemanager/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: paragonie/random_compat
+  description: PHP 5.x polyfill for random_bytes
+  package_url: https://packagist.org/paragonie/random_compat
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/facebook/graph-sdk/composer.json
+  detection_source: vendor/facebook/graph-sdk/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: paypal/rest-api-sdk-php
+  description: PayPal's PHP SDK for REST APIs
+  package_url: https://packagist.org/paypal/rest-api-sdk-php
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/hybridauth/hybridauth/composer.json
+  detection_source: vendor/hybridauth/hybridauth/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: pear/pear
+  description: This is the definitive source of PEAR's core files
+  package_url: https://packagist.org/pear/pear
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: pear/pear-core-minimal
+  description: Minimal set of PEAR core files to be used as composer dependency
+  package_url: https://packagist.org/pear/pear-core-minimal
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: pear/pear_exception
+  description: The PEAR Exception base class
+  package_url: https://packagist.org/pear/pear_exception
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: pear/versioncontrol_git
+  description: VersionControl_Git is a library that provides OO interface to handle
+    Git repository
+  package_url: https://packagist.org/pear/versioncontrol_git
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phenx/php-font-lib
+  description: A library to read
+  package_url: https://packagist.org/phenx/php-font-lib
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/dompdf/dompdf/composer.json
+  detection_source: vendor/dompdf/dompdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phenx/php-svg-lib
+  description: A library to read, parse and export to PDF SVG files
+  package_url: https://packagist.org/phenx/php-svg-lib
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/dompdf/dompdf/composer.json
+  detection_source: vendor/dompdf/dompdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phing/phing
+  description: PHing Is Not GNU make; it's a PHP project build system or build tool
+    based on Apache Ant
+  package_url: https://packagist.org/phing/phing
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: php-amqplib/php-amqplib
+  description: Formerly videlalvaro/php-amqplib
+  package_url: https://packagist.org/php-amqplib/php-amqplib
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: php-console/php-console
+  description: PHP library for Google Chrome extension "PHP Console"
+  package_url: https://packagist.org/php-console/php-console
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: php-coveralls/php-coveralls
+  description: PHP client library for Coveralls API
+  package_url: https://packagist.org/php-coveralls/php-coveralls
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpbench/phpbench
+  description: PHP Benchmarking Framework
+  package_url: https://packagist.org/phpbench/phpbench
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-servicemanager/composer.json
+  detection_source: vendor/laminas/laminas-servicemanager/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpcompatibility/php-compatibility
+  description: A set of sniffs for PHP_CodeSniffer that checks for PHP cross-version
+    compatibility
+  package_url: https://packagist.org/phpcompatibility/php-compatibility
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpdocumentor/phpdocumentor
+  description: Documentation Generator for PHP
+  package_url: https://packagist.org/phpdocumentor/phpdocumentor
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpdocumentor/reflection
+  description: Reflection library to do Static Analysis for PHP Projects
+  package_url: https://packagist.org/phpdocumentor/reflection
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpdocumentor/reflection-docblock
+  description: With this component
+  package_url: https://packagist.org/phpdocumentor/reflection-docblock
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpdocumentor/type-resolver
+  description: A PSR-5 based resolver of Class names
+  package_url: https://packagist.org/phpdocumentor/type-resolver
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phploc/phploc
+  description: A tool for quickly measuring the size of a PHP project
+  package_url: https://packagist.org/phploc/phploc
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpmailer/phpmailer
+  description: PHPMailer is a full-featured email creation and transfer class for
+    PHP
+  package_url: https://packagist.org/phpmailer/phpmailer
+  version: 6.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpmd/phpmd
+  description: PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent
+    of the well known Java tool PMD
+  package_url: https://packagist.org/phpmd/phpmd
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpoffice/phpspreadsheet
+  description: PHPSpreadsheet - Read
+  package_url: https://packagist.org/phpoffice/phpspreadsheet
+  version: '1.11'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: phpunit/phpunit
+  description: The PHP Unit Testing framework
+  package_url: https://packagist.org/phpunit/phpunit
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/bacon/bacon-qr-code/composer.json
+  detection_source: vendor/bacon/bacon-qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/cache
+  description: Common interface for caching libraries
+  package_url: https://packagist.org/psr/cache
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-access/composer.json
+  detection_source: vendor/symfony/property-access/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/container
+  description: Common Container Interface
+  package_url: https://packagist.org/psr/container
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/container-interop/container-interop/composer.json
+  detection_source: vendor/container-interop/container-interop/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/http-client
+  description: Common interface for HTTP clients
+  package_url: https://packagist.org/psr/http-client
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-validator/composer.json
+  detection_source: vendor/laminas/laminas-validator/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/http-factory
+  description: Common interfaces for PSR-7 HTTP message factories
+  package_url: https://packagist.org/psr/http-factory
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-validator/composer.json
+  detection_source: vendor/laminas/laminas-validator/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/http-message
+  description: Common interface for HTTP messages
+  package_url: https://packagist.org/psr/http-message
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/psr7/composer.json
+  detection_source: vendor/guzzlehttp/psr7/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/log
+  description: Common interface for logging libraries
+  package_url: https://packagist.org/psr/log
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/composer.json
+  detection_source: vendor/guzzlehttp/guzzle/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: psr/simple-cache
+  description: Common interfaces for simple caching
+  package_url: https://packagist.org/psr/simple-cache
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpoffice/phpspreadsheet/composer.json
+  detection_source: vendor/phpoffice/phpspreadsheet/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: ralouphie/getallheaders
+  description: A polyfill for getallheaders
+  package_url: https://packagist.org/ralouphie/getallheaders
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/psr7/composer.json
+  detection_source: vendor/guzzlehttp/psr7/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: roave/security-advisories
+  description: 'Prevents installation of composer packages with known security vulnerabilities:
+    no API'
+  package_url: https://packagist.org/roave/security-advisories
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: rollbar/rollbar
+  description: Monitors errors and exceptions and reports them to Rollbar
+  package_url: https://packagist.org/rollbar/rollbar
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: ruflin/elastica
+  description: Elasticsearch Client
+  package_url: https://packagist.org/ruflin/elastica
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: sabberworm/php-css-parser
+  description: Parser for CSS Files written in PHP
+  package_url: https://packagist.org/sabberworm/php-css-parser
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-svg-lib/composer.json
+  detection_source: vendor/phenx/php-svg-lib/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: satooshi/php-coveralls
+  description: PHP client library for Coveralls API
+  package_url: https://packagist.org/satooshi/php-coveralls
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/stripe/stripe-php/composer.json
+  detection_source: vendor/stripe/stripe-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: sebastian/phpcpd
+  description: Copy/Paste Detector
+  package_url: https://packagist.org/sebastian/phpcpd
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/markbaker/complex/composer.json
+  detection_source: vendor/markbaker/complex/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: sentry/sentry
+  description: A PHP SDK for Sentry
+  package_url: https://packagist.org/sentry/sentry
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: setasign/fpdf
+  description: FPDF is a PHP class which allows to generate PDF files with pure PHP
+  package_url: https://packagist.org/setasign/fpdf
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: setasign/fpdi
+  description: FPDI is a collection of PHP classes facilitating developers to read
+    pages from existing PDF documents and use them as templates in FPDF
+  package_url: https://packagist.org/setasign/fpdi
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/mpdf/mpdf/composer.json
+  detection_source: vendor/mpdf/mpdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: squizlabs/php_codesniffer
+  description: PHP_CodeSniffer tokenizes PHP
+  package_url: https://packagist.org/squizlabs/php_codesniffer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/bacon/bacon-qr-code/composer.json
+  detection_source: vendor/bacon/bacon-qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: stripe/stripe-php
+  description: Stripe PHP Library
+  package_url: https://packagist.org/stripe/stripe-php
+  version: '5.1'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/composer.json
+  detection_source: composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: swiftmailer/swiftmailer
+  description: Swiftmailer, free feature-rich PHP mailer
+  package_url: https://packagist.org/swiftmailer/swiftmailer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/monolog/monolog/composer.json
+  detection_source: vendor/monolog/monolog/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/cache
+  description: Provides extended PSR-6, PSR-16
+  package_url: https://packagist.org/symfony/cache
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-access/composer.json
+  detection_source: vendor/symfony/property-access/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/console
+  description: Eases the creation of beautiful and testable command line interfaces
+  package_url: https://packagist.org/symfony/console
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/contracts
+  description: A set of abstractions extracted out of the Symfony components
+  package_url: https://packagist.org/symfony/contracts
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/deprecation-contracts/composer.json
+  detection_source: vendor/symfony/deprecation-contracts/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/dependency-injection
+  description: Allows you to standardize and centralize the way objects are constructed
+    in your application
+  package_url: https://packagist.org/symfony/dependency-injection
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/doctrine-bridge
+  description: Provides integration for Doctrine with various Symfony components
+  package_url: https://packagist.org/symfony/doctrine-bridge
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/error-handler
+  description: Provides tools to manage errors and ease debugging PHP code
+  package_url: https://packagist.org/symfony/error-handler
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/string/composer.json
+  detection_source: vendor/symfony/string/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/filesystem
+  description: Provides basic utilities for the filesystem
+  package_url: https://packagist.org/symfony/filesystem
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/locale/composer.json
+  detection_source: vendor/giggsey/locale/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/finder
+  description: Finds files and directories via an intuitive fluent interface
+  package_url: https://packagist.org/symfony/finder
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/locale/composer.json
+  detection_source: vendor/giggsey/locale/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/http-client
+  description: Provides powerful methods to fetch HTTP resources synchronously or
+    asynchronously
+  package_url: https://packagist.org/symfony/http-client
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/string/composer.json
+  detection_source: vendor/symfony/string/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/options-resolver
+  description: Provides an improved replacement for the array_replace PHP function
+  package_url: https://packagist.org/symfony/options-resolver
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/phpunit-bridge
+  description: Provides utilities for PHPUnit
+  package_url: https://packagist.org/symfony/phpunit-bridge
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/promises/composer.json
+  detection_source: vendor/guzzlehttp/promises/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill
+  description: Symfony polyfills backporting features to lower PHP versions
+  package_url: https://packagist.org/symfony/polyfill
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-ctype
+  description: Symfony polyfill for ctype functions
+  package_url: https://packagist.org/symfony/polyfill-ctype
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-ctype/composer.json
+  detection_source: vendor/symfony/polyfill-ctype/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-intl-grapheme
+  description: Symfony polyfill for intl's grapheme_* functions
+  package_url: https://packagist.org/symfony/polyfill-intl-grapheme
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-intl-grapheme/composer.json
+  detection_source: vendor/symfony/polyfill-intl-grapheme/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-intl-idn
+  description: Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions
+  package_url: https://packagist.org/symfony/polyfill-intl-idn
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/guzzlehttp/guzzle/composer.json
+  detection_source: vendor/guzzlehttp/guzzle/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-intl-normalizer
+  description: Symfony polyfill for intl's Normalizer class and related functions
+  package_url: https://packagist.org/symfony/polyfill-intl-normalizer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-intl-idn/composer.json
+  detection_source: vendor/symfony/polyfill-intl-idn/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-mbstring
+  description: Symfony polyfill for the Mbstring extension
+  package_url: https://packagist.org/symfony/polyfill-mbstring
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/libphonenumber-for-php/composer.json
+  detection_source: vendor/giggsey/libphonenumber-for-php/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-php70
+  description: Symfony polyfill backporting some PHP 7.0+ features to lower PHP versions
+  package_url: https://packagist.org/symfony/polyfill-php70
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-intl-idn/composer.json
+  detection_source: vendor/symfony/polyfill-intl-idn/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/polyfill-php72
+  description: Symfony polyfill backporting some PHP 7.2+ features to lower PHP versions
+  package_url: https://packagist.org/symfony/polyfill-php72
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/polyfill-intl-idn/composer.json
+  detection_source: vendor/symfony/polyfill-intl-idn/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/process
+  description: Executes commands in sub-processes
+  package_url: https://packagist.org/symfony/process
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/giggsey/locale/composer.json
+  detection_source: vendor/giggsey/locale/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/property-access
+  description: Provides functions to read and write from/to an object or array using
+    a simple string notation
+  package_url: https://packagist.org/symfony/property-access
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/property-info
+  description: Extracts information about PHP class' properties using metadata of
+    popular sources
+  package_url: https://packagist.org/symfony/property-info
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-access/composer.json
+  detection_source: vendor/symfony/property-access/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/security
+  description: Provides a complete security system for your web application
+  package_url: https://packagist.org/symfony/security
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/endroid/qr-code/composer.json
+  detection_source: vendor/endroid/qr-code/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/serializer
+  description: Handles serializing and deserializing data structures
+  package_url: https://packagist.org/symfony/serializer
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/property-info/composer.json
+  detection_source: vendor/symfony/property-info/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/translation
+  description: Provides tools to internationalize your application
+  package_url: https://packagist.org/symfony/translation
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/string/composer.json
+  detection_source: vendor/symfony/string/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/translation-contracts
+  description: Generic abstractions related to translation
+  package_url: https://packagist.org/symfony/translation-contracts
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/string/composer.json
+  detection_source: vendor/symfony/string/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: symfony/var-exporter
+  description: Allows exporting any serializable PHP data structure to plain PHP code
+  package_url: https://packagist.org/symfony/var-exporter
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/symfony/string/composer.json
+  detection_source: vendor/symfony/string/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: tecnickcom/tcpdf
+  description: TCPDF is a PHP class for generating PDF documents and barcodes
+  package_url: https://packagist.org/tecnickcom/tcpdf
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phpoffice/phpspreadsheet/composer.json
+  detection_source: vendor/phpoffice/phpspreadsheet/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: tracy/tracy
+  description: "\U0001F60E Tracy: the addictive tool to ease debugging PHP code for
+    cool developers"
+  package_url: https://packagist.org/tracy/tracy
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/mpdf/mpdf/composer.json
+  detection_source: vendor/mpdf/mpdf/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: vimeo/psalm
+  description: A static analysis tool for finding errors in PHP applications
+  package_url: https://packagist.org/vimeo/psalm
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/myclabs/php-enum/composer.json
+  detection_source: vendor/myclabs/php-enum/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: zendframework/zend-barcode
+  description: Programmatically create and render barcodes as images or in PDFs
+  package_url: https://packagist.org/zendframework/zend-barcode
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-barcode/composer.json
+  detection_source: vendor/laminas/laminas-barcode/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: zendframework/zend-servicemanager
+  description: Factory-Driven Dependency Injection Container
+  package_url: https://packagist.org/zendframework/zend-servicemanager
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-servicemanager/composer.json
+  detection_source: vendor/laminas/laminas-servicemanager/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: zendframework/zend-stdlib
+  description: SPL extensions, array utilities, error handlers, and more
+  package_url: https://packagist.org/zendframework/zend-stdlib
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-stdlib/composer.json
+  detection_source: vendor/laminas/laminas-stdlib/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: zendframework/zend-validator
+  description: Validation classes for a wide range of domains
+  package_url: https://packagist.org/zendframework/zend-validator
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-validator/composer.json
+  detection_source: vendor/laminas/laminas-validator/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: zendframework/zendpdf
+  description: Zend Pdf Component
+  package_url: https://packagist.org/zendframework/zendpdf
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/laminas/laminas-barcode/composer.json
+  detection_source: vendor/laminas/laminas-barcode/composer.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: _s
+  description: Pythonic array slicing in JavaScript
+  package_url: http://bower.io/_s
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: he
+  description: A robust HTML entity encoder/decoder written in JavaScript
+  package_url: http://bower.io/he
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: page
+  description: Tiny client-side router
+  package_url: http://bower.io/page
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: parse
+  description: Bower package for Parse.com backend code
+  package_url: http://bower.io/parse
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
+- name: 'true'
+  description: Unit testing for Sass
+  package_url: http://bower.io/true
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/syamsulbchr/POS_sistem/blob/master/vendor/phenx/php-font-lib/bower.json
+  detection_source: vendor/phenx/php-font-lib/bower.json
+  last_updated_by: Syamsul Bachri
+  last_updated_on: 2021-02-08 12:28:25.000000000 Z
